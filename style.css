@@ -1,0 +1,100 @@
+body {
+    text-align: center;
+}
+
+#profile {
+    border-radius: 50%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+#home {
+    width: 100%;
+    bottom: 0;
+    background-image: linear-gradient(red, yellow, skyblue);
+    opacity: 0.8;
+    display: table;
+    height: 0;
+}
+
+.homeDiv {
+    vertical-align: middle;
+    display: table-cell;
+    position: relative;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Festive', cursive;
+}
+
+.headin {
+    font-family: 'Zen Tokyo Zoo', cursive;
+}
+
+#name {
+    color: red;
+}
+
+h2 {
+    font-family: 'Yomogi', cursive;
+    font-size: 30px;
+    line-height: 1.2;
+}
+
+#bio {
+    padding: 50px;
+}
+
+.line {
+    margin: 25px auto;
+    height: 6px;
+    width: 70px;
+    background-color: black;
+}
+
+p {
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 17px;
+    line-height: 1.3;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+    color: deepskyblue;
+}
+
+.l {
+    font-size: 25px;
+    color: #05eb3e;
+}
+
+.l:hover {
+    color: red;
+}
+
+.contact1 i {
+    color: black;
+}
+
+.contact1 a {
+    font-size: 25px;
+    color: black;
+}
+
+.contact1 {
+    background-color: coral;
+}
+
+.github {
+    margin-left: -230px;
+}
+
+.contact2 {
+    background-color: cyan;
+}
